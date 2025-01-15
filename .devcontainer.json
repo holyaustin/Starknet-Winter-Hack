@@ -1,0 +1,13 @@
+{
+    "name": "dev",
+    "image": "starknetfoundation/starknet-dev:2.9.2",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "tamasfe.even-better-toml",
+                "starkWare.cairo1"
+                
+            ]
+        }
+    }
+}
